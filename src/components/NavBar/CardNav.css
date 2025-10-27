@@ -1,11 +1,12 @@
 .card-nav-container {
   position: sticky;
-  padding-top: 50px;
+  top: 0;
+  padding-top: 20px;
   left: 50%;
   transform: translateX(-50%);
   width: 90%;
   max-width: 800px;
-  z-index: 99;
+  z-index: 1000;
   box-sizing: border-box;
 }
 
