@@ -1,5 +1,5 @@
 import React from "react";
-import PixelCard from "D:/web/OscReact/src/components/PixelCard.jsx";
+import PixelCard from "@/components/PixelCard.jsx";
 
 function page2() {
   return (
