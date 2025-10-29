@@ -8,7 +8,7 @@ const Nav = () => {
       bgColor: "#0D0716",
       textColor: "#fff",
       links: [
-        { label: "Team", ariaLabel: "About Team" },
+        { label: "Team", ariaLabel: "About Team", href: "/teams"  },  //Route added
         { label: "About Us", ariaLabel: "About Us" },
       ],
     },
